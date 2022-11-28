@@ -1,0 +1,10 @@
+{
+    "relatedMovies": [
+        {
+            "title": "Movie 1"
+        },
+        {
+            "title": "Movie 2"
+        }
+    ]
+}
