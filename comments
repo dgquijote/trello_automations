@@ -1,10 +1,32 @@
 {
-    "relatedMovies": [
+    "Document": [
         {
-            "title": "Movie 1"
-        },
+            "body": "Document"
+        }
+    ],
+     "Process Flow": [
         {
-            "title": "Movie 2"
+            "body": "Process_Flow"
+        }
+    ],
+     "Testing": [
+        {
+            "body": "Testing"
+        }
+    ],
+     "Templates": [
+        {
+            "body": "Templates"
+        }
+    ],
+     "Proofread": [
+        {
+            "body": "Proofread"
+        }
+    ],
+     "Review": [
+        {
+            "body": "Review"
         }
     ]
 }
